@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nandhinivengalasetty29/leetcode/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/nandhinivengalasetty29/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/nandhinivengalasetty29/leetcode/tree/master/0137-single-number-ii) |
 | [0204-count-primes](https://github.com/nandhinivengalasetty29/leetcode/tree/master/0204-count-primes) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nandhinivengalasetty29/leetcode/tree/master/0011-container-with-most-water) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nandhinivengalasetty29/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/nandhinivengalasetty29/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nandhinivengalasetty29/leetcode/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nandhinivengalasetty29/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
